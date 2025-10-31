@@ -1,6 +1,6 @@
 # Minr-j
 # Mål
-#Skapa ett textbaserat Minröj-spel i Java som körs i terminalen.
+# Skapa ett textbaserat Minröj-spel i Java som körs i terminalen.
 Visa spelplanen i terminalen som ett rutnät med bokstäver (rader) och siffror (kolumner).
 Slumpmässigt placera bomber på spelplanen.
 Låta spelaren skriva in koordinater (t.ex. b2) för att undersöka en ruta.
